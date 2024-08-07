@@ -188,7 +188,7 @@ SSH onto the BYOL as root user, and then follow the following steps:
 
     .. code-block:: text
         
-        # zypper ar https://download.opensuse.org/repositories/Virtualization:/feilong/15.5/ feilong
+        # zypper ar https://download.opensuse.org/repositories/Virtualization:/feilong/SLE_15_SP5/ feilong
         # zypper refresh
 
 3. Disable SELinux
